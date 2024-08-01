@@ -1,2 +1,2 @@
 # dsc-config-learn-env
-Repository containing conda environments for FIS courses.
+Repository containing conda environments for FS courses.
