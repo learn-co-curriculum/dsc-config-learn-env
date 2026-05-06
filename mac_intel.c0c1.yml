@@ -1,4 +1,4 @@
-name: mac_intel.c0c1
+name: learn-env
 channels:
   - defaults
 dependencies:
