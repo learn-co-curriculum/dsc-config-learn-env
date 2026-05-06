@@ -1,4 +1,4 @@
-name: win_c0c1
+name: learn-env
 channels:
   - defaults
 dependencies:
